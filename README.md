@@ -18,7 +18,7 @@ The WireGuard Controller Desklet is a simple and intuitive graphical tool tailor
    git clone https://github.com/prodata2000/wireguard-controller-desklet.git
    ```
 
-2. **Move the Desklet to the Cinnamon Desklets Directory:**  
+2. **Move the Desklet to the Cinnamon DeskletsDirectory:**  
    Navigate to the downloaded directory and move the `wireguard-controller@SparkForge` folder to the `.local/share/cinnamon/desklets/` directory in your home folder.
 
    ```bash
