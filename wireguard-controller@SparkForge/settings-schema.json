@@ -1,0 +1,16 @@
+{
+    "wg-interface": {
+        "type": "combobox",
+        "default": "wg0",
+        "description": "WireGuard Interface Name",
+        "options": {
+            "wg0": "wg0",
+            "wg1": "wg1"
+        }
+    },
+    "instructions": {
+        "type": "label",
+        "description": "Instructions: Use the dropdown to select your WireGuard interface. If you wish to add more interfaces, manually edit the 'wg-interface' options in this JSON file and restart Cinnamon."
+    }
+}
+

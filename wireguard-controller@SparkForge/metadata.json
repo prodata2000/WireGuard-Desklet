@@ -1,0 +1,8 @@
+{
+    "uuid": "wireguard-controller@SparkForge",
+    "name": "WireGuard Controller",
+    "description": "A desklet to control WireGuard interfaces.",
+    "author": "OpenAI",
+    "version": "1.0"
+}
+
