@@ -2,7 +2,7 @@
 
 The WireGuard Controller Desklet is a simple and intuitive graphical tool tailored for the Linux Mint Cinnamon desktop. It allows users to easily monitor and manage their WireGuard VPN connections directly from the desktop.
 
-![WireGuard Controller Desklet Screenshot](path_to_screenshot.png) *(Replace with actual screenshot path)*
+
 
 ## Features
 
